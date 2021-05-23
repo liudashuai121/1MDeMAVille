@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612234306393",
+    "firebase_url": "https://mindemaville.firebaseio.com",
+    "project_id": "mindemaville",
+    "storage_bucket": "mindemaville.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612234306393:android:c36ff780d0ecbeede82248",
+        "android_client_info": {
+          "package_name": "com.isen.unemindemaville"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612234306393-nl5h5857a6kdq38il4pj7mqtm2goec18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb0lsYVKyY988mxHoBfmyuzfBKKnitMO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612234306393-nl5h5857a6kdq38il4pj7mqtm2goec18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

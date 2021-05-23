@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/une_min_de_ma_ville/android" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/cloud_firestore-0.13.7/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/cloud_firestore_web-0.1.1+2/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/firebase_auth-0.16.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/firebase_auth_web-0.1.3+1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/firebase_core-0.4.4/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/firebase_core_web-0.1.1+2/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/firebase_storage-3.1.6/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/flutter_ffmpeg-0.2.10/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/flutter_plugin_android_lifecycle-1.0.11/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/image_cropper-1.4.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/image_picker-0.6.7+22/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/import_js_library-1.0.2/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/path_provider-1.6.28/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/path_provider_linux-0.0.1+2/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/path_provider_macos-0.0.4+8/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/path_provider_windows-0.0.5/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/shared_preferences-0.5.12+4/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/shared_preferences_linux-0.0.2+4/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/shared_preferences_macos-0.0.1+11/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/shared_preferences_web-0.1.2+7/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/shared_preferences_windows-0.0.2+3/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/video_player-1.0.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/video_player_web-0.1.4+1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/wakelock-0.2.1+1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/wakelock_web-0.1.0+3/android" />
+            <option value="$PROJECT_DIR$/une_min_de_ma_ville/android" />
+            <option value="$PROJECT_DIR$/une_min_de_ma_ville/android/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
